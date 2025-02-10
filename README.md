@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="Cyberpunk.gif" alt="GIF" width="1000" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=E040FB&background=F8FFF400&width=600&lines=Hi%2C+I'm+Parisa+Karimi!+👋;)](https://git.io/typing-svg)
 
-<p>
-  <h1 align="center"><b>Hello there, I'm Parisa 👋</b></h1>
-</p>
+---
 
 ## ☄️ My believe :
 ```c
